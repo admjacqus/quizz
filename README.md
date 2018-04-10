@@ -1,4 +1,4 @@
-##Quizz
+## Quizz
 
 Wanna make a perosnlity quiz? Clone this badboy!
 
